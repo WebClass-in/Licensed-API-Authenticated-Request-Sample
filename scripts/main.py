@@ -5,7 +5,7 @@ from api_client import LicensedAPIClient
 def main():
 
     config = APIConfig(
-        base_url="xxxxxx",
+        base_url="https://operations.webclass.in",
         api_key="xxxxxx",
         api_secret="xxxxxx"
     )
