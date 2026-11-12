@@ -334,7 +334,7 @@ A successful call to `getLatestSIFNavEntries` returns a JSON object with a singl
       "isin-div-reinvestment": "-",
       "scheme-type": "Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund)",
       "fund-house": "Altiva SIF",
-      "plan": "Direct",
+      "plan": "Direct Plan",
       "option": "Growth",
       "date-entry": "11-Aug-2026"
     },
@@ -346,7 +346,7 @@ A successful call to `getLatestSIFNavEntries` returns a JSON object with a singl
       "isin-div-reinvestment": "INF000K30021",
       "scheme-type": "Open Ended Schemes(Equity Oriented Investment Strategies - Equity Ex-Top 100 Long-Short Fund)",
       "fund-house": "qsif SIF",
-      "plan": "Regular",
+      "plan": "Regular Plan",
       "option": "IDCW",
       "date-entry": "13-Nov-2025"
     }
