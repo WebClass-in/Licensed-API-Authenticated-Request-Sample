@@ -368,6 +368,8 @@ A successful call to `getLatestSIFNavEntries` returns a JSON object with a singl
       "scheme-type":            string,   // category / description of the scheme
       "fund-house":             string,   // asset management company / fund house
       "date-entry":             string    // date in "DD-Mon-YYYY" format, e.g. "11-Aug-2026"
+      "plan":                   string    // human-readable scheme plan
+      "option":                 string    // human-readable scheme option
     },
     ...
   ]
